@@ -24,7 +24,7 @@ specificationVersion: '0.20'
 
 created: '2026-09-26'
 
-modified: '2026-09-26'
+modified: '2026-10-06'
 
 tags:
 - Company
@@ -46,6 +46,8 @@ maintainers:
   email: info@apis.io
 
 common:
+- url: https://arrivehealth.com/feed/
+  type: BlogRSS
 - type: SecurityTxt
   url: well-known/arrive-health-clarity-security.txt
 - type: WellKnown
